@@ -1,0 +1,55 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30621.155
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MMO_Mania.WebMVC", "MMO_Mania.WebMVC\MMO_Mania.WebMVC.csproj", "{692D44A8-4668-4A22-8CB6-2788CA0A48C6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MMO_Mania.Data", "MMO_Mania.Data\MMO_Mania.Data.csproj", "{D0322820-CA64-4831-9C6B-7F02CAF429F3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MMO_Mania.Models", "MMO_Mania.Models\MMO_Mania.Models.csproj", "{92EA4179-CE92-4263-BEBC-D9097B09AD7F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MMO_Mania.Services", "MMO_Mania.Services\MMO_Mania.Services.csproj", "{EB80F7DE-E422-4A97-94A5-D2D70699C76C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MMO_Mania.Contracts", "MMO_Mania.Contracts\MMO_Mania.Contracts.csproj", "{3FBDF468-EBA4-45A4-9636-89AB44586FDE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MMO_Mania.Tests", "MMO_Mania.Tests\MMO_Mania.Tests.csproj", "{4DB214A2-7F49-44B6-A72C-D05300A0B87B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{692D44A8-4668-4A22-8CB6-2788CA0A48C6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{692D44A8-4668-4A22-8CB6-2788CA0A48C6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{692D44A8-4668-4A22-8CB6-2788CA0A48C6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{692D44A8-4668-4A22-8CB6-2788CA0A48C6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D0322820-CA64-4831-9C6B-7F02CAF429F3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D0322820-CA64-4831-9C6B-7F02CAF429F3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D0322820-CA64-4831-9C6B-7F02CAF429F3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D0322820-CA64-4831-9C6B-7F02CAF429F3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{92EA4179-CE92-4263-BEBC-D9097B09AD7F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{92EA4179-CE92-4263-BEBC-D9097B09AD7F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{92EA4179-CE92-4263-BEBC-D9097B09AD7F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{92EA4179-CE92-4263-BEBC-D9097B09AD7F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EB80F7DE-E422-4A97-94A5-D2D70699C76C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EB80F7DE-E422-4A97-94A5-D2D70699C76C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EB80F7DE-E422-4A97-94A5-D2D70699C76C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EB80F7DE-E422-4A97-94A5-D2D70699C76C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3FBDF468-EBA4-45A4-9636-89AB44586FDE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3FBDF468-EBA4-45A4-9636-89AB44586FDE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3FBDF468-EBA4-45A4-9636-89AB44586FDE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3FBDF468-EBA4-45A4-9636-89AB44586FDE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4DB214A2-7F49-44B6-A72C-D05300A0B87B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4DB214A2-7F49-44B6-A72C-D05300A0B87B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4DB214A2-7F49-44B6-A72C-D05300A0B87B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4DB214A2-7F49-44B6-A72C-D05300A0B87B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3AFCE6F7-7AB2-403F-833A-86CEB3271FF7}
+	EndGlobalSection
+EndGlobal
